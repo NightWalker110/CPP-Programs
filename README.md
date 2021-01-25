@@ -33,3 +33,5 @@ Then you should print 5+6+2=13.)
 21. Program to calculate area of a circle using functions
 22. Display Fibonacci Series Using Recursion
 23. Find G.C.D for two integers using recursion
+24. Calculate the x^y using recursion
+25. Find sum of natural numbers using recursion
