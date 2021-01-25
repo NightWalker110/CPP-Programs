@@ -30,8 +30,8 @@ Then you should print 5+6+2=13.)
 18.	Program to use switch statement. Display Monday to Sunday.
 19.	Program to display arithmetic operator using switch case.
 20. Program to swap two values using functions.
-21. Program to calculate area of a circle using functions
-22. Display Fibonacci Series Using Recursion
-23. Find G.C.D for two integers using recursion
-24. Calculate the x^y using recursion
-25. Find sum of natural numbers using recursion
+21. Program to calculate area of a circle using functions.
+22. Display Fibonacci Series Using Recursion.
+23. Find G.C.D for two integers using recursion.
+24. Calculate the x^y using recursion.
+25. Find sum of natural numbers using recursion.
